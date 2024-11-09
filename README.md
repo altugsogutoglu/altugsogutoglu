@@ -21,11 +21,11 @@ class Skills extends SoftwareDeveloper {
 ```
 
 
-Hi, I'm Abdullah Ghanem, senior fullStack developer from Egypt.
+Hi, I'm Altug Sogutoglu, medior fullStack developer from The Netherlands.
 
-- 🌱 I’m currently learning Machine learning
-- 👯 I’m looking to collaborate on [Github Laravel Rating](https://github.com/abdullahghanem/rating)
-- 💬 Ask me about anything [here](https://github.com/abdullahghanem/abdullahghanem/issues)
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on [Github Laravel Rating](https://github.com/altugsogutoglu/rating)
+- 💬 Ask me about anything [here](https://github.com/altugsogutoglu/altugsogutoglu/issues)
 
 **Languages and Tools:**  
 
