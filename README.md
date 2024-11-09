@@ -1,17 +1,17 @@
 ## Hi there 👋
 
 ```javascript
-import SoftwareDeveloper from 'ghanem';
-import { Languages, Frameworks } from 'ghanem/skills';
+import SoftwareDeveloper from 'altugsogutoglu';
+import { Languages, Frameworks } from 'altugsogutoglu/skills';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Abdullah Ghanem';
-  title    = 'Senior Software Developer';
-  location = 'Cairo, Egypt';
+  name     = 'Altug Sogutoglu';
+  title    = 'Medior Software Developer';
+  location = 'Eindhoven, The Netherlands';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['PHP', 'JavaScript', 'TypeScript', ...Languages];
+  languages  = ['PHP', 'JavaScript', 'SQL', 'R', 'TypeScript'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['Laravel', 'Vue', 'Nest.js', ...Frameworks];
 }
