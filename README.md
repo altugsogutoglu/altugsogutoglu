@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<code>
 import SoftwareDeveloper from 'ghanem';
 import { Languages, Frameworks } from 'ghanem/skills';
 
@@ -14,7 +15,7 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['Laravel', 'Vue', 'Nest.js', ...Frameworks];
 }
-
+</code>
 <!--
 **altugsogutoglu/altugsogutoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
