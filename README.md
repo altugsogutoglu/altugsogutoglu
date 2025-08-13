@@ -82,7 +82,7 @@ const altug = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/altugsogutoglu)
 [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
-![Visitor Count]([https://profile-counter.glitch.me/altugsogutoglu/count.svg](https://komarev.com/ghpvc/?username=altugsoguroglu))
+![](https://komarev.com/ghpvc/?username=altugsoguroglu)
 
 ---
 
